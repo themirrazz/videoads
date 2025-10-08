@@ -1,0 +1,12 @@
+{
+    "id": 10,
+    "duration": 5,
+    "whois": {
+        "advertiser": "themirrazz",
+        "campaign": 10
+    },
+    "streams": {
+        "mp4": "a/7qq2bx34d9n2i60p2h66v.mp4"
+    },
+    "captions": { }
+}
