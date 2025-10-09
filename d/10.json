@@ -1,9 +1,9 @@
 {
     "id": 10,
-    "duration": 5,
+    "duration": 20,
     "whois": {
         "advertiser": "themirrazz",
-        "campaign": 20
+        "campaign": 10
     },
     "url": "https://www.youtube.com/@themirrazz",
     "streams": {
